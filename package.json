@@ -1,0 +1,15 @@
+{
+  "name": "bun-protobufjs-issue",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.12.2",
+    "@grpc/reflection": "^1.0.4"
+  }
+}
