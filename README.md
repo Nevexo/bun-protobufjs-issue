@@ -1,5 +1,7 @@
 # bun-protobufjs-issue
 
+Demo of issue reported in: https://github.com/oven-sh/bun/issues/14891
+
 To install dependencies:
 
 ```bash
